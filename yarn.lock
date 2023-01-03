@@ -670,10 +670,10 @@ concat-stream@^1.5.2:
     readable-stream "^2.2.2"
     typedarray "^0.0.6"
 
-config@^1.28.0:
+config@^1.31.0:
   version "1.31.0"
-  resolved "https://registry.npm.taobao.org/config/download/config-1.31.0.tgz#ab08aeba6536015d220cd0afe14b3e0501082542"
-  integrity sha1-qwiuumU2AV0iDNCv4Us+BQEIJUI=
+  resolved "https://registry.yarnpkg.com/config/-/config-1.31.0.tgz#ab08aeba6536015d220cd0afe14b3e0501082542"
+  integrity sha512-Ep/l9Rd1J9IPueztJfpbOqVzuKHQh4ZODMNt9xqTYdBBNRXbV4oTu34kCkkfdRVcDq0ohtpaeXGgb+c0LQxFRA==
   dependencies:
     json5 "^1.0.1"
 
